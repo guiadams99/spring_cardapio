@@ -11,4 +11,4 @@ https://www.youtube.com/@kipperdev
 Backend:
 https://www.youtube.com/watch?v=lUVureR5GqI
 Frontend:
-RESTful para gerenciar as operações CRUD da nossa aplicação. Vamos explorar o uso de bibliotecas importantes como Spring Data JPA para simplificar o acesso e manipulação de dados.
+https://www.youtube.com/watch?v=WHruc3_2z68&t=0s
